@@ -181,7 +181,7 @@ It's travel company
                 <img src="images/gpay.png" alt="GPay" title="Pay via Google Pay">
             </a>
         </div>
-        <p>Founder: Yug Srivastav</p>
+        <p>Founder: .Yug Srivastav</p>
     </section>
 
     <footer>
